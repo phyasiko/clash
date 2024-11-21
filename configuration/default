@@ -1,3 +1,21 @@
+AI:
+
+PROX:
+
+DIRECT:
+
+
+
+
+
+
+
+
+
+
+
+
+
 ;1、域名组
 ruleset=🖧 AI,https://raw.githubusercontent.com/phyasiko/clash/refs/heads/main/AI.list
 ruleset=👯‍♂️ TikTok,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/TikTok/TikTok.list
