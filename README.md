@@ -1,2 +1,12 @@
-# clash
-subscription template configuration for openwrt clash
+# ⭐ Configuration
+clash的订阅配置看板模板配置情况：域名组、策略组、节点组。
+
+
+策略组：
+将域名与所将使用的节点大类对应。
+
+域名组：
+自定义域名匹配情况，将域名匹配到所对应的策略组。
+
+节点组：
+对订阅的节点进行自定义分类。
