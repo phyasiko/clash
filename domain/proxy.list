@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,nivodi.com
 
 # 其他已有规则
 DOMAIN-SUFFIX,hongxingyunmovie.vip
+KEYWORD,hongxingyunmovie
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
